@@ -188,7 +188,6 @@ int main()
     printf("Enter two integers:\n");
     scanf("%d %d", &a, &b);
 
-    /* Arithmetic Operations */
     printf("\nArithmetic Operations:\n");
     printf("Sum            : %d\n", a + b);
     printf("Difference     : %d\n", a - b);
@@ -196,7 +195,6 @@ int main()
     printf("Quotient       : %d\n", a / b);
     printf("Remainder      : %d\n", a % b);
 
-    /* Bitwise Operations */
     printf("\nBitwise Operations:\n");
     printf("AND (a & b)    : %d\n", a & b);
     printf("OR  (a | b)    : %d\n", a | b);
